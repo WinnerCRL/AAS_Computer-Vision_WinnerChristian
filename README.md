@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🚗 License Plate OCR with LMStudio (Visual Language Model)
 
@@ -90,3 +91,6 @@ File `ocr_results.csv` akan berisi hasil seperti:
 - Gambar harus jelas dan tidak blur agar VLM dapat mengenali plat dengan baik.
 
 ---
+=======
+# AAS_Computer-Vision_WinnerChristian_4222201002
+>>>>>>> 44f08d51916473d9954ea3e890fb62c5997664dc
